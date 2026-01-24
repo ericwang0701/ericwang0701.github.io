@@ -1,8 +1,9 @@
 homepage:
   show_education: true
   show_experience: true
-  show_awards: false
-  show_news: true
+  #show_awards: false
+  #show_news: true
+  #show_edu_exp_block: true
   show_selected_publications: true
   num_news: 10
 
