@@ -6,7 +6,7 @@ type: publication
 pub: "ISMAR Adjunct 2024"
 tags: ["# XR", "# Collaboration"]
 paper_name: "AvatarPilot"
-cover: /assets/images/covers/avatarpilot.png
+cover: /assets/images/covers/AvatarPilot.png
 
 authors:
   - "Cheng-Yao Wang"
